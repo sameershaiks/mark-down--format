@@ -8,4 +8,6 @@
 
 [front-endImage](https://kodmek.com/wp-content/uploads/2021/01/front-end-developer-1600x900-1.jpg)
 
-- image path
+- image path in local project
+
+![backend-image](./backend-is-1200x808.png)
